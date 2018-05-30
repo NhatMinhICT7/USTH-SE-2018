@@ -10,4 +10,4 @@ The first function of the app: Show a map on html5 canvas
 
 The framework in use: HTML, CSS, JavaScript
 
-Project Report:https://docs.google.com/document/d/1uJfzWuD7U-nUNqDG3kdCLXpWTxeYFEWssYp_Olb4JAs/edit?usp=sharing
+Project Report: https://docs.google.com/document/d/1uJfzWuD7U-nUNqDG3kdCLXpWTxeYFEWssYp_Olb4JAs/edit?usp=sharing
